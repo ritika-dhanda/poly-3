@@ -26,7 +26,7 @@ const config: HardhatUserConfig = {
   networks: {
     zkEVM: {
       url: `https://polygon-zkevm-cardona.blockpi.network/v1/rpc/public`,
-      accounts: [process.env.PRIVATE_KEY],
+      accounts: [process.env.PRIVATE_KEY as string],
     },
   },
   circom: {
