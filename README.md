@@ -1,4 +1,4 @@
-# PolyProof-ZKSnark-Circuit
+# PolyProof-ZKETH-Circuit
 
 This repository contains the implementation of a zkSNARK circuit that performs specific logical operations. The circuit is designed to prove knowledge of inputs A = 0 and B = 1 that yield an output of 0. Additionally, this project includes deploying a verifier on-chain to verify proofs generated from this circuit.
 
