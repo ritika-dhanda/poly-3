@@ -6,9 +6,6 @@ This repository contains the implementation of a zkSNARK circuit that performs s
 
 This Circom project involves creating a zkSNARK circuit to demonstrate knowledge of specific logical inputs and their resulting output. The circuit implements logical gates, and the resulting proof is verified on-chain using a verifier contract deployed on the Polygon network (Cardona zkEVM or Sepolia or Mumbai Testnet).
 
-## Video Tutorial
-
-For a detailed walkthrough of the code and how the project works, check out the [Loom video](https://www.loom.com/share/652193f33368463abd808c9780b6c9b3?sid=f1fc130e-8320-448a-9aa0-e6d78bb63401).
 
 ## Prerequisites
 
@@ -181,7 +178,7 @@ npx hardhat newcircuit --name newcircuit
 3. Complete the verification.
 
 ## Authors
-Mannat Gupta
+Ritika Dhanda
 
 ## License
 
